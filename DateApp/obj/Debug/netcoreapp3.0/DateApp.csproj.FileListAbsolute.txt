@@ -1,0 +1,11 @@
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.exe
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.deps.json
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.runtimeconfig.json
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.runtimeconfig.dev.json
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.dll
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\bin\Debug\netcoreapp3.0\DateApp.pdb
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\obj\Debug\netcoreapp3.0\DateApp.csprojAssemblyReference.cache
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\obj\Debug\netcoreapp3.0\DateApp.AssemblyInfoInputs.cache
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\obj\Debug\netcoreapp3.0\DateApp.AssemblyInfo.cs
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\obj\Debug\netcoreapp3.0\DateApp.dll
+C:\Users\Benit\Desktop\GraduaatProgrammeren\Semester 2\OOP\DateApp\obj\Debug\netcoreapp3.0\DateApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.exe
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\obj\Debug\netcoreapp3.1\testing.csprojAssemblyReference.cache
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfoInputs.cache
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfo.cs
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.deps.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.dev.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.dll
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\bin\Debug\netcoreapp3.1\testing.pdb
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\obj\Debug\netcoreapp3.1\testing.dll
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\testing\obj\Debug\netcoreapp3.1\testing.pdb

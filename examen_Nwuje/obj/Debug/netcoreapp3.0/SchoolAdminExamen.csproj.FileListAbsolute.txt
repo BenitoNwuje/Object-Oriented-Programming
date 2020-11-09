@@ -1,0 +1,11 @@
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.exe
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.deps.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.runtimeconfig.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.runtimeconfig.dev.json
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.dll
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\bin\Debug\netcoreapp3.0\SchoolAdminExamen.pdb
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\obj\Debug\netcoreapp3.0\SchoolAdminExamen.csprojAssemblyReference.cache
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\obj\Debug\netcoreapp3.0\SchoolAdminExamen.AssemblyInfoInputs.cache
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\obj\Debug\netcoreapp3.0\SchoolAdminExamen.AssemblyInfo.cs
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\obj\Debug\netcoreapp3.0\SchoolAdminExamen.dll
+C:\Users\Benito\Desktop\GraduaatProgrammeren\Semester 2\OOP\examen_Nwuje\obj\Debug\netcoreapp3.0\SchoolAdminExamen.pdb
